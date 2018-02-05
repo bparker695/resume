@@ -1,5 +1,7 @@
 # Resume
 
+The contents of this resume reflects the accomplishments and aptitude of Brandon Parker. Therefore, any reuse of this source code as means of a template must be modified to meet the accomplishments of the aptitude of the individual cloning the repository.
+
 ## Getting Started
 
 ### Get the resume
