@@ -7,7 +7,7 @@ The contents of this resume reflects the accomplishments and aptitude of Brandon
 ### Get the resume
 Make a directory for your project.  Clone or download and extract the seed in that directory.
 ```
-git clone git@github.com:alaviamir/resume.git
+git clone https://github.com/bparker695/resume.git
 ```
 
 ### Install tools
